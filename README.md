@@ -13,7 +13,7 @@
 - Support Multiple kind of Youtube URLs
     
     ```bash
-    https://music.youtube.com/watch?v=xxxxx
+    https://www.youtube.com/watch?v=xxxxx
     https://music.youtube.com/watch?v=xxxxx
     https://youtu.be/xxxxx
     ```
