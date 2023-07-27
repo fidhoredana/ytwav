@@ -27,6 +27,7 @@
 - Install Library for Youtube WAV Download (less than 30 seconds)
 - Copy the youtube URL that you want to download to WAV
 - Paste the URL that was copied in the "Download Youtube to WAV" input section
+- The downloaded wav will be stored in the "Youtube-Music" folder on your Google Drive
 - Happy Downloading!
 ## Thank You!
 
