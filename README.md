@@ -10,8 +10,8 @@
 - WAV Format
 - Automatically save the downloaded WAV to Google Drive
 - Free, Fast, Easy to Use, Lightweight, No Ads, No Limit!
-- Support Multiple kind of Youtube URLs
 - Download in Bulk!
+- Support Multiple kind of Youtube URLs
     
     ```bash
     https://www.youtube.com/watch?v=xxxxx
